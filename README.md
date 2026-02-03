@@ -5,8 +5,7 @@ Automated Plant Watering System 🌱💧
 
 This project is an automated plant watering system using a microcontroller, soil moisture sensor, relay-controlled water pump, and an OLED display. It monitors soil moisture in real-time and waters your plants automatically when the soil is dry.
 
-Features
-
+Features:
 Automatic watering: Turns on the pump when soil moisture drops below a set threshold.
 
 Soil moisture monitoring: Continuously reads soil moisture values using an analog sensor.
@@ -17,8 +16,7 @@ Time display with BST adjustment: Shows current date and time on an SSD1306 OLED
 
 Customizable threshold: Adjust the moisture threshold and watering duration according to your plant’s needs.
 
-Hardware Required
-
+Hardware Required:
 Microcontroller compatible with MicroPython (e.g., Raspberry Pi Pico W)
 
 Soil moisture sensor
